@@ -38,9 +38,9 @@
 <br />
 <br />
 
-<img width="550" alt="Razwan Hossain Github status"  src="https://github-readme-stats.vercel.app/api?username=mdparveg&show_icons=true"/>
+<img width="550" alt="Razwan Hossain Github status"  src="https://github-readme-stats.vercel.app/api?username=freelancerifaz&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdparveg&card_width=550)](https://github.com/mdparveg/mdparveg)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=freelancerifaz&card_width=550)](https://github.com/freelancerifaz/freelancerifaz)
 
 [programming]: https://www.programming-hero.com/
 [website]: https://google.com/
