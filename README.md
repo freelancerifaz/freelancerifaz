@@ -9,7 +9,7 @@
  - 🤔 I’m looking for help with Job
  - 📫 How to reach me: mrifaz369@gmail.com
  - 🥅 2020 Goals: Learn React,Vue, Node and so on
- - ⚡ Fun fact: I love to read books and playing badminton  
+ - ⚡ Fun fact: I love to motivate someone to get out form depression and also travelling every year  
 
 ### Connect with me:
 
