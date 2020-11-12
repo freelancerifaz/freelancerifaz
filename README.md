@@ -4,7 +4,7 @@
 # [Resume](https://drive.google.com/file/d/1AH1F1Fn5Dl-TWUfdAykuVBwc74vabflF/view?usp=sharing "Resume")
 
 ## I'm a Junior / React Developer!
- - 🔭 I’m currently learning from [Programming Hero][programming]!
+ - 🔭 I’m currently learning web development!
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
  - 📫 How to reach me: mrifaz369@gmail.com
