@@ -1,7 +1,7 @@
 ### Hi there, I'm Razwan Hossain -  [Portfolio - Live Site Url](https://freelancerifaz.github.io/professional-portfolio-02/) 👋
 
 ### Hire or Contact with me!
-# [Resume](https://drive.google.com/file/d/1AH1F1Fn5Dl-TWUfdAykuVBwc74vabflF/view?usp=sharing "Resume")
+# [Resume](https://drive.google.com/file/d/1tTgnJOqapxgjETIjJMTAT3s0RixQS0tl/view?usp=sharing "Resume")
 
 ## I'm a Junior / React Developer!
  - 🔭 I’m currently learning web development!
